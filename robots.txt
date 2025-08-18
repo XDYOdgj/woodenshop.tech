@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://woodenshop.tech/sitemap.xml
